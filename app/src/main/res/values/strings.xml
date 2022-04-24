@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">vid_lab2</string>
+    <string-array name="prog_lang">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="prog_lang_descr">
+        <item>Random description.</item>
+        <item>Random description.</item>
+        <item>Random description.</item>
+        <item>Random description.</item>
+        <item>Random description.</item>
+    </string-array>
+</resources>
